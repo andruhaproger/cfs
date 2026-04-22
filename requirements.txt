@@ -1,0 +1,11 @@
+ultralytics==8.4.41
+torchvision
+scikit-learn
+pillow
+matplotlib
+pandas
+jupyter
+ipykernel
+notebook
+opencv-python
+pyyaml
