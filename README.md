@@ -17,7 +17,7 @@ https://www.kaggle.com/datasets/andrewmvd/hard-hat-detection
 
 1. Клонировать репозиторий:
 ```bash
-git clone <ссылка-на-репозиторий>
+git clone https://github.com/andruhaproger/cfs
 cd cps-lab1-cv-hardhat-yolo
 
 python -m venv .venv
