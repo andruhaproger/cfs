@@ -9,13 +9,11 @@
 
 Используется датасет Safety Helmet Detection.
 https://www.kaggle.com/datasets/andrewmvd/hard-hat-detection
-Архив датасета необходимо скачать вручную и поместить в корень проекта под именем:
 
 `hard_hat_dataset.zip`
 
 ## Установка
 
-1. Клонировать репозиторий:
 ```bash
 git clone https://github.com/andruhaproger/cfs
 cd cps-lab1-cv-hardhat-yolo
