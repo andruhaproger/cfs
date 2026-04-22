@@ -16,7 +16,7 @@ https://www.kaggle.com/datasets/andrewmvd/hard-hat-detection
 
 ```bash
 git clone https://github.com/andruhaproger/cfs
-cd cps-lab1-cv-hardhat-yolo
+cd cfs
 
 python -m venv .venv
 
