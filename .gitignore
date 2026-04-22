@@ -1,0 +1,15 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+*.pyc
+*.pyo
+*.pyd
+
+hard_hat_dataset/
+hard_hat_yolo/
+crops_dataset/
+runs/
+
+*.cache
+*.pt
+*.zip
